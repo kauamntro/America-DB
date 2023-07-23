@@ -1,0 +1,205 @@
+{
+    "naCountries": {
+      "ca": {
+        "siglaFlag": "ca",
+        "tentativas": ["canada", "canadá", "ca"]
+      },
+      "us": {
+        "siglaFlag": "us",
+        "tentativas": ["united states", "unites states of america", "estados unidos", "eua", "us"]
+      },
+      "mx": {
+        "siglaFlag": "mx",
+        "tentativas": ["mexico", "méxico", "mex", "mx"]
+      },
+      "gl": {
+        "siglaFlag": "gl",
+        "tentativas": ["greenland", "greenland", "groenlândia", "gl", "gl"]
+      },
+      "gt": {
+        "siglaFlag": "gt",
+        "tentativas": ["guatemala", "guatemala", "gt", "gt"]
+      },
+      "ht": {
+        "siglaFlag": "ht",
+        "tentativas": ["haiti", "haiti", "ht", "ht"]
+      },
+      "cu": {
+        "siglaFlag": "cu",
+        "tentativas": ["cuba", "cuba", "cu", "cu"]
+      },
+      "do": {
+        "siglaFlag": "do",
+        "tentativas": ["dominican republic", "dominican republic", "dr", "dr", "republica dominicana", "republica dominica"]
+      },
+      "bs": {
+        "siglaFlag": "bs",
+        "tentativas": ["bahamas", "bahamas", "bs", "bs"]
+      },
+      "bz": {
+        "siglaFlag": "bz",
+        "tentativas": ["belize", "belize", "bz", "bz"]
+      },
+      "ni": {
+        "siglaFlag": "ni",
+        "tentativas": ["nicaragua", "nicaragua", "ni", "ni"]
+      },
+      "bb": {
+        "siglaFlag": "bb",
+        "tentativas": ["barbados", "barbados", "bb", "bb"]
+      },
+      "hn": {
+        "siglaFlag": "hn",
+        "tentativas": ["honduras", "honduras", "hn", "hn"]
+      },
+      "ai": {
+        "siglaFlag": "ai",
+        "tentativas": ["anguilla", "anguilla", "ai", "ai"]
+      },
+      "mq": {
+        "siglaFlag": "mq",
+        "tentativas": ["martinique", "martinique", "mq", "mq"]
+      },
+      "bl": {
+        "siglaFlag": "bl",
+        "tentativas": ["saint bartolomeu"]
+      },
+      "gd": {
+        "siglaFlag": "gd",
+        "tentativas": ["grenada", "grenada", "gd", "gd"]
+      },
+      "ms": {
+        "siglaFlag": "ms",
+        "tentativas": ["montserrat", "montserrat"]
+      },
+      "pm": {
+        "siglaFlag": "pm",
+        "tentativas": ["saint-pierre", "saint-pierre"]
+      },
+      "dm": {
+        "siglaFlag": "dm",
+        "tentativas": ["dominica", "dominica", "dm", "dm"]
+      },
+      "gp": {
+        "siglaFlag": "gp",
+        "tentativas": ["guadalupe", "guadalupe", "gp", "gp"]
+      },
+      "sx": {
+        "siglaFlag": "sx",
+        "tentativas": ["sint maarten", "sintmaarten", "sx", "sx"]
+      },
+      "vi": {
+        "siglaFlag": "vi",
+        "tentativas": ["united states virgin islands", "united states virgins islands", "vi", "vi"]
+      },
+      "tc": {
+        "siglaFlag": "tc",
+        "tentativas": ["tc", "tc"]
+      },
+      "ag": {
+        "siglaFlag": "ag",
+        "tentativas": ["antigua", "antigua", "ag", "ag"]
+      },
+      "ky": {
+        "siglaFlag": "ky",
+        "tentativas": ["cayman islands", "cayman islands", "ky", "ky"]
+      },
+      "sv": {
+        "siglaFlag": "sv",
+        "tentativas": ["el salvador", "el salvador", "sv", "sv"]
+      },
+      "lc": {
+        "siglaFlag": "lc",
+        "tentativas": ["saint lucia", "saint lucia", "lc", "lc"]
+      },
+      "kn": {
+        "siglaFlag": "kn",
+        "tentativas": ["saint kitts", "saintkitts", "kn", "kn"]
+      },
+      "vg": {
+        "siglaFlag": "vg",
+        "tentativas": ["british virgin islands", "british virgin islands", "vg", "vg"]
+      }
+    },
+    "caCountries": {
+      "gt": {
+        "siglaFlag": "gt",
+        "tentativas": ["guatemala", "guatemala", "gt", "gt"]
+      },
+      "bz": {
+        "siglaFlag": "bz",
+        "tentativas": ["belize", "belize", "bz", "bz"]
+      },
+      "ni": {
+        "siglaFlag": "ni",
+        "tentativas": ["nicaragua", "nicaragua", "ni", "ni"]
+      },
+      "hn": {
+        "siglaFlag": "hn",
+        "tentativas": ["honduras", "honduras", "hn", "hn"]
+      },
+      "sv": {
+        "siglaFlag": "sv",
+        "tentativas": ["el salvador", "el salvador", "sv", "sv"]
+      },
+      "pa": {
+        "siglaFlag": "pa",
+        "tentativas": ["panama", "panama", "pa", "pa"]
+      },
+      "cr": {
+        "siglaFlag": "cr",
+        "tentativas": ["costa rica", "costa rica", "cr", "cr"]
+      }
+    },
+    "saCountries": {
+      "br": {
+        "siglaFlag": "br",
+        "tentativas": ["brazil", "brasil", "br"]
+      },
+      "ve": {
+        "siglaFlag": "ve",
+        "tentativas": ["venezuela", "venezuela", "ve", "ve"]
+      },
+      "gy": {
+        "siglaFlag": "gy",
+        "tentativas": ["guyana", "guyana", "gy", "gy"]
+      },
+      "sr": {
+        "siglaFlag": "sr",
+        "tentativas": ["suriname", "suriname", "sr", "sr"]
+      },
+      "co": {
+        "siglaFlag": "co",
+        "tentativas": ["colombia", "colômbia", "co", "co"]
+      },
+      "ec": {
+        "siglaFlag": "ec",
+        "tentativas": ["ecuador", "equador", "ec", "ec"]
+      },
+      "pe": {
+        "siglaFlag": "pe",
+        "tentativas": ["peru", "peru", "pe", "pe"]
+      },
+      "bo": {
+        "siglaFlag": "bo",
+        "tentativas": ["bolivia", "bolívia", "bo", "bo"]
+      },
+      "py": {
+        "siglaFlag": "py",
+        "tentativas": ["paraguay", "paraguai", "py", "py"]
+      },
+      "cl": {
+        "siglaFlag": "cl",
+        "tentativas": ["chile", "chile", "cl", "cl"]
+      },
+      "ar": {
+        "siglaFlag": "ar",
+        "tentativas": ["argentina", "argentina", "ar", "ar"]
+      },
+      "uy": {
+        "siglaFlag": "uy",
+        "tentativas": ["uruguay", "uruguai", "uy", "uy"]
+      }
+    }
+  }
+  
